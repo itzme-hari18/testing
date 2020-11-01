@@ -1,3 +1,3 @@
 # testing
-## EDITING THE FILE.
-Its a markdown file in this in repository.
+##Editing file
+Its a markdown file i this repository.
